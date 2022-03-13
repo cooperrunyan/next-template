@@ -7,3 +7,5 @@ test('jest logic works', () => {
   expect(!0).toBeTruthy();
   expect(0).toBeFalsy();
 });
+
+export {};
