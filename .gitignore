@@ -5,3 +5,5 @@ dist
 dist-ssr
 private
 .next
+sw.js
+workbox*
